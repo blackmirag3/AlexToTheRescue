@@ -2,7 +2,7 @@
 End project for CG2111A by Group B04-4A (AY22/23 Sem 2) 
 
 ## Project Description
-To build a robot with search and rescue capabilities and implement baremetal in our main code
+To build a robot with search and rescue capabilities and apply baremetal coding concepts in our main code
 
 Robot has the following functions:  
 - Tele-operated using VNC via WIFI
