@@ -6,7 +6,7 @@ We built a robot "Alex" with search and rescue capabilities, applying baremetal 
 
 "Alex" has the following functions:  
 - Tele-operated using VNC via WIFI
-- Powered by RPi and Arduino Uno with UART implementation
+- Powered by RPi and Arduino Uno with UART communication
 - Ability to map vicinity using LIDAR module
 - Colour sensor to detect "identity" of detected victims in simulated test environment
 
