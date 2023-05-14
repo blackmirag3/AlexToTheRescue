@@ -8,7 +8,7 @@ Robot has the following functions:
 - Tele-operated using VNC via WIFI
 - Powered by RPi and Arduino Uno with UART implementation
 - Ability to map vicinity using LIDAR module
-- Forward facing colour sensor to identify "identity" of detected victims in simulated test environment
+- Colour sensor to detect "identity" of detected victims in simulated test environment
 
 ![image](https://github.com/blackmirag3/AlexToTheRescue/assets/78994143/cfca0bc9-605f-4e68-94c2-db3d05ceb5ed)
 
