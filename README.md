@@ -1,7 +1,7 @@
 # AlexToTheRescue
 End project for CG2111A by Group B04-4A (AY22/23 Sem 2) 
 
-![image]((alex.png))
+![image](https://github.com/blackmirag3/AlexToTheRescue/assets/78994143/cfca0bc9-605f-4e68-94c2-db3d05ceb5ed)
 
 ## Project Description
 We built a robot with search and rescue capabilities, applying baremetal coding concepts in our Arduino code as well
