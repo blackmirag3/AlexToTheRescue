@@ -2,9 +2,10 @@
 End project for CG2111A by Group B04-4A (AY22/23 Sem 2) 
 
 ## Project Description
-We built a robot "Alex" with search and rescue capabilities, applying baremetal coding concepts in our Arduino code as well
+We built a robot "Alex" with search and rescue capabilities
 
 "Alex" has the following functions:  
+- Bare-Metal programming on Arduino Uno
 - Tele-operated using VNC via WIFI
 - Powered by RPi and Arduino Uno with UART communication
 - Ability to map vicinity using LIDAR module
